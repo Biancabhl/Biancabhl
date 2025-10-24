@@ -57,3 +57,10 @@ In the long term, my goal is to specialize as a Back-end Developer or Software E
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Biancabhl&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Biancabhl)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Biancabhl&theme=material-palenight)](https://github.com/Biancabhl)
+</div>
+
